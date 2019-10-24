@@ -1,2 +1,2 @@
 # RESTFUL-webservice
-guide to building a simple user RESTFUL web service
+a simple application to demonstrate RESTful web services.
